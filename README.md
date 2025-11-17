@@ -76,15 +76,13 @@ I like problems where **business questions are fuzzy but the data is real**.
 
 ## 🐍 Contribution Snake
 
-> This will work after you set up the GitHub Action in `.github/workflows/snake.yml`.
-
 ![snake gif](https://github.com/sshetty4-tech/sshetty4-tech/raw/output/snake.svg)
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpitha-r-shetty-4baa7a16a/)  
 📧 `sshetty4@umd.edu`
 
 > I care more about **clean data thinking** than flashy buzzwords. If you do too, we’ll probably get along.
