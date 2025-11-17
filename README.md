@@ -70,10 +70,8 @@ I like problems where **business questions are fuzzy but the data is real**.
 
 ## 📊 GitHub Stats & Activity
 
-> Replace `YOUR_GITHUB_USERNAME` below with your real GitHub username.
-
-![Shilpitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Shilpitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshetty4-tech&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshetty4-tech&layout=compact)
 
 ---
 
@@ -81,13 +79,13 @@ I like problems where **business questions are fuzzy but the data is real**.
 
 > This will work after you set up the GitHub Action in `.github/workflows/snake.yml`.
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/snake.svg)
+![snake gif](https://github.com/sshetty4-tech/sshetty4-tech/raw/output/snake.svg)
 
 ---
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-📧 `shilpitha.r.shetty@gmail.com`
+📧 `sshetty4@umd.edu`
 
 > I care more about **clean data thinking** than flashy buzzwords. If you do too, we’ll probably get along.
