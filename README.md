@@ -82,7 +82,6 @@ I like problems where **business questions are fuzzy but the data is real**.
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpitha-r-shetty-4baa7a16a/)  
-📧 `sshetty4@umd.edu`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpitha-r-shetty-4baa7a16a/) : https://www.linkedin.com/in/shilpitha-r-shetty-4baa7a16a/ 
 
-> I care more about **clean data thinking** than flashy buzzwords. If you do too, we’ll probably get along.
+📧 `sshetty4@umd.edu`
