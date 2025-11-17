@@ -19,7 +19,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: sshetty4-tech
           outputs: |
             dist/snake.svg
 
