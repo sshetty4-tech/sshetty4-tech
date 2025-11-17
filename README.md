@@ -3,7 +3,7 @@
 **Data Analyst & Analytics Engineer**  
 MS in Information Systems @ University of Maryland (Robert H. Smith School of Business) – Dec 2025  
 
-I work on **data analysis, analytics engineering, and decision support**: taking raw data, cleaning it, and turning it into something stakeholders can actually use. I care about **clear logic, reproducible workflows, and honest storytelling with data** — no buzzwords, no magic.
+I work on **data analysis, analytics engineering, and decision support**: taking raw data, cleaning it, and turning it into something stakeholders can actually use. I care about **clear logic, reproducible workflows, and honest storytelling with data**
 
 ---
 
@@ -51,7 +51,6 @@ I work on **data analysis, analytics engineering, and decision support**: taking
 - **Analytics & Engineering Projects @ UMD**  
   - Designed a **relational database + AI-assisted scheduling logic** for a university course scheduling system (CIC).  
   - Built an **end-to-end finance dashboard** for a manufacturing scenario (FinFactory) with ETL in **Azure/Databricks** and reporting in **Power BI**.  
-  - Solved an **airline profitability and route optimization** challenge using Python, flight/ticket datasets, and KPI design.
 
 - **Prior experience with financial / operational data** in audit, consulting, and engineering contexts, focusing on **data quality, controls, and reporting**.
 
